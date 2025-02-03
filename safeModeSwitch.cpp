@@ -85,7 +85,7 @@ void setBatteryStatus(bool newStatus) {
         std::exit(0);
     }
 
-    acpiFile.close();Mini Arm Laptop
+    acpiFile.close();
 }
 
 // Отправка уведомлений
